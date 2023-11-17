@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @garnethawkins
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Javascrypt php larvel and maybe a little Python
+# My name is Garnet Hawkins
+**I code when I can**
+- interested in software development
+- currently learning Javascrypt php larvel and maybe a little Python
 
